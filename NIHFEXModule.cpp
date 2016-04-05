@@ -8,7 +8,7 @@ int main()
 	/* NIHFEX MODULE -54 */
 	string lib64 = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	string str1 = "NIHF";
-  string key1 = "STAR";
+  	string key1 = "STAR";
 	string result = "";
 	for (int i = 0; i < (int) str1.length(); i++)
 	{
@@ -20,8 +20,8 @@ int main()
 		result += lib64.substr(k, 1);
 	}
 	/* NIHFEX MODULE -54 */
-  string str12 = "STAR";
-  string key12 = "NIHF";
+  	string str12 = "STAR";
+  	string key12 = "NIHF";
 	string result1 = "";
 	for (int i = 0; i < (int) str12.length(); i++)
 	{
