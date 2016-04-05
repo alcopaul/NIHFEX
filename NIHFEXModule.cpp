@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	/* NIHFEX MODULE -54 */
+	/* NIHFEX MODULE -49 */
 	string lib64 = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	string str1 = "NIHF";
   	string key1 = "STAR";
